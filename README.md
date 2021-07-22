@@ -18,10 +18,10 @@ Vários lugares usam plantas, seja em casa ou no comércio, e hoje em dia o ser 
 <div align="center">
   <img src="assets/cover.png" width="700" /> 
 </div>
-
-<br>
-<br>
 **Link figma:** https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1
+<br>
+<br>
+
 
 
 
