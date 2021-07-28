@@ -17,7 +17,7 @@ interface PlantProps extends RectButtonProps {
   }
 }
 
-export const PlantCardPrimary = ({data, ...rest}: PlantProps) => {
+export const PlantCardPrimary = ({data, ...rest} : PlantProps) => {
   return(
     <RectButton
       style={styles.container}
@@ -28,7 +28,7 @@ export const PlantCardPrimary = ({data, ...rest}: PlantProps) => {
         width={70}
         height={70}
       />
-      <Text style={styles.text}>
+      <Text style={styles.textName}>
         { data.name }
       </Text>
     </RectButton>
@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     margin: 10
   },
-  text: {
+  textName: {
     color: colors.green_dark,
     fontFamily: fonts.heading,
     marginVertical: 16
