@@ -11,14 +11,13 @@
   </p>
 </div>
 
+<img src="plantmanager-updated.svg" />
+
 # 👀 Sobre
 
 Vários lugares usam plantas, seja em casa ou no comércio, e hoje em dia o ser humano está cada vez mais ocupado, então acaba esquecendo de regar as plantas. O Plantmanager veio resolver este problema, com este aplicativo você saberá quando e como regar suas plantas !!
 
-<div align="center">
-  <img src="assets/cover.png" width="700" /> 
-</div>
-**Link figma:** https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1
+Link figma: https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1
 <br>
 <br>
 
